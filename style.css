@@ -1,0 +1,38 @@
+/* common style */
+
+.red-text{
+    color: #ff2020;
+}
+
+.red-bg{
+    background: #ff2020;
+}
+
+/* header styles */
+.nav-item .nav-link {
+    font-weight: bold;
+}
+body h1{
+    font-size: 68px;
+    color: #0B1C39;
+    font-weight: bold;
+}
+.header-bg{
+    background: #F0F0F2;
+}
+
+/* arrivals */
+.arrivals{
+    margin: 150px 0;
+}
+
+/* product shipping */
+.icons i{
+    font-size: 30px;
+}
+
+/* footer links */
+a{
+    text-decoration: none;
+    color: rgb(114, 114, 114);
+}
