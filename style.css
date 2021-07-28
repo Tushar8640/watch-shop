@@ -1,4 +1,7 @@
 /* common style */
+body{
+    box-sizing: border-box;
+}
 
 .red-text{
     color: #ff2020;
